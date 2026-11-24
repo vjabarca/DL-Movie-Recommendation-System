@@ -52,7 +52,7 @@ The notebook walks through the whole pipeline:
 
 There are no missing values in the ratings or movie files. The most common rating is 4 (348,971 ratings), followed by 3 and 5.
 
-![Distribution of ratings](rating_distribution.png)
+![Distribution of ratings](docs/rating_distribution.png)
 
 ## Model Architecture
 
