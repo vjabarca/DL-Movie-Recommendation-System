@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Data-MovieLens%201M-blue)
-![Status](https://img.shields.io/badge/status-prototype-orange)
+![Status](https://img.shields.io/badge/status-beta-yellowgreen)
 [![License](https://img.shields.io/github/license/vjabarca/DL-Movie-Recommendation-System)](LICENSE)
 
 An embeddings-based collaborative filtering recommender built with PyTorch. The model learns a vector for every user and every movie from about 1 million [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/) ratings, passes the pair through a deep feed-forward network, and predicts the rating (1 to 5) a user would give a movie they haven't seen.
